@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(173, 158, 23)
+    
+     
+}
+ *{ margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+ }
+ #menus{
+    list-style: none;
+    padding: 0;
+    background-color: black;
+    font-size: 25px;
+    
+
+ }
+
+ #menus  li {
+
+    display: inline;
+ } 
+
+ #menus  li a{
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+    transition: Background .6s;
+    padding-left: 60px;
+    
+ }
+
+ #menus  li a:hover{
+    background-color: rgb(126, 124, 131);
+
+ }
+
+ #culpidoquerido{
+color: color-mix(in srgb, rgb(221, 181, 0) 55%, rgb(155, 33, 33) 45%);
+font-size: 60px; ;
+text-align: center;
+padding-top: 50px;
+
+ }
+
+ #pederoda{
+
+text-align: center;
+
+ }
+ 
+ 
